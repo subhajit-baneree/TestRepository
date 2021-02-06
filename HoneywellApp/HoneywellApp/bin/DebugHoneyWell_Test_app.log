@@ -1,0 +1,20 @@
+====================================================================================
+06-02-2021 15:36:36| ---> Starting HoneyWell_Test_app
+====================================================================================
+06-02-2021 15:36:36 | ClassName: Program | MethodName:Main | Line Number: 29 | Message: 1
+06-02-2021 15:36:41 | ClassName: Program | MethodName:Main | Line Number: 36 | Message: CST
+06-02-2021 15:36:41 | ClassName: TimeConverter | MethodName:ConvertToRequiredFormat | Line Number: 78 | Message: Date in format required: 06/02/2021
+06-02-2021 15:36:41 | ClassName: TimeConverter | MethodName:ConvertToRequiredFormat | Line Number: 82 | Message: Time in format required: 4:6 AM
+06-02-2021 15:36:50 | ClassName: Program | MethodName:Main | Line Number: 29 | Message: 2
+06-02-2021 15:37:21 | ClassName: Program | MethodName:Main | Line Number: 69 | Message: String converter app chosen. Input string :tom and sam are good boys and they are good friends, as well.
+====================================================================================
+06-02-2021 15:38:25| ---> Starting HoneyWell_Test_app
+====================================================================================
+06-02-2021 15:38:25 | ClassName: Program | MethodName:Main | Line Number: 29 | Message: 2
+06-02-2021 15:38:50 | ClassName: Program | MethodName:Main | Line Number: 69 | Message: String converter app chosen. Input string :tom and sam are good boys, and they are good friends as well.
+====================================================================================
+06-02-2021 15:39:34| ---> Starting HoneyWell_Test_app
+====================================================================================
+06-02-2021 15:39:34 | ClassName: Program | MethodName:Main | Line Number: 29 | Message: 2
+06-02-2021 15:39:47 | ClassName: Program | MethodName:Main | Line Number: 69 | Message: String converter app chosen. Input string :tom and sam are good boys, and they are good friends as well.
+06-02-2021 15:39:57 | ClassName: StringChecker | MethodName:GetModifiedString | Line Number: 61 | Message:  tom sam boys, they friends as well.
